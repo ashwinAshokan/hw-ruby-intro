@@ -1,7 +1,8 @@
 # When done, submit this entire file to the autograder.
 
 # Part 1
-
+#Author: Ashwin Ashokan , 230002171
+#Finished HW1 , and all the tests passed
 def sum arr
   # YOUR CODE HERE
   retVal = 0
